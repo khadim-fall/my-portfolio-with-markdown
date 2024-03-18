@@ -1,10 +1,10 @@
 ---
-title: Markdown Mystery Tour
+title: Gestion Relation Client (CRM)
 publishDate: 2020-03-02 00:00:00
-img: /assets/stock-1.jpg
+img: /assets/CRM.PNG
 img_alt: Iridescent ripples of a bright blue and pink liquid
 description: |
-  We designed a whodunnit-style game to introduce Markdown formatting. Suspense — suspicion — syntax!
+  Création d'une application web de gestion relation client pour un hôtel
 tags:
   - Design
   - Dev
