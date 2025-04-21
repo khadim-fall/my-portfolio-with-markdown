@@ -11,10 +11,10 @@ tags:
   - User Testing
 ---
 
-## Définition du CRM
+
 
 > Tell me and I forget. Teach me and I remember. Involve me and I learn.
-
+## Définition du CRM
 Le CRM (Gestion de la Relation Client) est un ensemble de stratégies, de processus et d’outils visant à optimiser la gestion des interactions avec les clients et prospects. Il permet de centraliser les informations clients pour améliorer le service, la fidélisation et les ventes.
 
 ### Fonctionnalités principales d’un CRM :
