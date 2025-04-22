@@ -4,20 +4,83 @@ publishDate: 2019-12-01 00:00:00
 img: /assets/stock-2.jpg
 img_alt: A bright pink sheet of paper used to wrap flowers curves in front of rich blue background
 description: |
-  We paired with a cutting-edge music API and a team of horticulturalists
-  to build AI-generated playlists that maximize houseplant health.
+  Création d'une application web pour les cours en ligne et étudier les failles de la sécurité de Moodle et analyser les failles de sécurité potentielles pour garantir la protection des données des utilisateurs.
 tags:
   - Dev
-  - Branding
+  - Front
   - Backend
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur posuere commodo venenatis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nam non ligula vel metus efficitur hendrerit. In hac habitasse platea dictumst. Praesent et mauris ut mi dapibus semper. Curabitur tortor justo, efficitur sit amet pretium cursus, porta eget odio. Cras ac venenatis dolor. Donec laoreet posuere malesuada. Curabitur nec mi tempor, placerat leo sit amet, tincidunt est. Quisque pellentesque venenatis magna, eget tristique nibh pulvinar in. Vestibulum vitae volutpat arcu. Aenean ut malesuada odio, sit amet pellentesque odio. Suspendisse nunc elit, blandit nec hendrerit non, aliquet at magna. Donec id leo ut nulla sagittis sodales.
+### Définition et Objectif
+Une application web de cours en ligne basée sur Moodle vise à offrir une plateforme d’apprentissage accessible via Internet, permettant aux enseignants de créer et gérer des cours, et aux étudiants de suivre ces cours à distance, interagir, passer des tests, et obtenir des certificats.
 
-Integer vitae nibh elit. Suspendisse eget urna eu neque bibendum pharetra. Sed interdum lectus sem, in pulvinar magna dignissim vel. Quisque maximus at urna nec laoreet. Suspendisse potenti. Vestibulum rhoncus sem ut mi pellentesque, in vestibulum erat blandit. Aliquam sodales dui ac maximus consectetur. Duis quis est vehicula, imperdiet nisl nec, fermentum erat. Duis tortor diam, pharetra eu euismod in, vehicula non eros. Curabitur facilisis dui at erat ultrices gravida. In at nunc ultricies, pulvinar mi vel, sagittis mauris. Praesent pharetra posuere purus ac imperdiet. Nulla facilisi.
+ ### Pourquoi Moodle ?
 
-Sed pulvinar porttitor mi in ultricies. Etiam non dolor gravida eros pulvinar pellentesque et dictum ex. Proin eu ornare ligula, sed condimentum dui. Vivamus tincidunt tellus mi, sed semper ipsum pharetra a. Suspendisse sollicitudin at sapien nec volutpat. Etiam justo urna, laoreet ac lacus sed, ultricies facilisis dolor. Integer posuere, metus vel viverra gravida, risus elit ornare magna, id feugiat erat risus ullamcorper libero. Proin vitae diam auctor, laoreet lorem vitae, varius tellus.
+Moodle est une plateforme LMS (Learning Management System) libre, puissante et modulaire, utilisée par des milliers d’établissements dans le monde.
 
-Mauris sed eros in ex maximus volutpat. Suspendisse potenti. Donec lacinia justo consectetur sagittis tempor. Proin ullamcorper nisi vitae auctor rhoncus. Sed tristique aliquam augue. Pellentesque vitae fringilla ligula. Nulla arcu elit, efficitur eu nunc malesuada, eleifend tincidunt orci. Interdum et malesuada fames ac ante ipsum primis in faucibus. Integer mattis orci in bibendum ultricies. Quisque a dui erat. Phasellus et vulputate ipsum. Proin metus ex, lobortis nec ornare eget, bibendum ut sapien. Aliquam in dolor lobortis, aliquam tellus a, congue augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+### Avantages :
+- Accessibilité à l'échelle mondiale
+- Interface utilisateur intuitive
+- Intégration facile avec d'autres outils éducatifs
+Open-source (gratuit)
 
-Aenean pretium purus augue, ut bibendum erat convallis quis. Cras condimentum quis velit ac mollis. Suspendisse non purus fringilla, venenatis nisl porta, finibus odio. Curabitur aliquet metus faucibus libero interdum euismod. Morbi sed magna nisl. Morbi odio nibh, facilisis vel sapien eu, tempus tincidunt erat. Nullam erat velit, sagittis at purus quis, tristique scelerisque tortor. Pellentesque lacinia tortor id est aliquam viverra. Vestibulum et diam ac ipsum mollis fringilla.
+- Très personnalisable
+
+- Communauté active
+
+- Supporte SCORM, H5P, etc.
+
+- Sécurité et conformité RGPD
+
+### Fonctionnalités principales de l'application Moodle
+## Gestion des cours :
+- Création de cours en ligne (textes, vidéos, quiz)
+
+- Gestion des utilisateurs : inscriptions automatiques ou manuelles ,Rôles : admin, enseignant, étudiantes
+
+
+### Activités pédagogiques :
+
+Devoirs, forums, QCM, glossaires, leçons interactives
+
+Intégration de ressources externes (YouTube, PDF, Google Docs)
+
+### Suivi et évaluation :
+
+- Suivi des progrès (tableaux de bord)
+
+- Notes, feedbacks, certificats
+
+### Communication :
+
+- Messagerie interne
+
+- Notifications
+
+- Forums et chats
+
+### Extensibilité :
+
+- Thèmes personnalisables
+
+- Plugins pour étendre les fonctionnalités
+
+- API pour intégration avec d’autres systèmes (Zoom, BigBlueButton…)
+
+### Technologies utilisées
+- Backend : PHP (avec framework Moodle)
+
+- Frontend : HTML/CSS/JS (Bootstrap, parfois Angular/React si surcouche personnalisée)
+
+- Base de données : MySQL ou PostgreSQL
+
+- Serveur : Apache/Nginx
+
+### Cas d’utilisation
+- Universités et écoles
+
+- Centres de formation en ligne
+
+- Entreprises pour la formation interne
+
+- Organismes de certification
